@@ -4,5 +4,4 @@ pandas
 lxml
 statsmodels
 Prophet
-base64
 plotly
