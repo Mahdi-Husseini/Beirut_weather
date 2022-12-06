@@ -1,0 +1,8 @@
+streamlit
+Pillow
+pandas
+lxml
+statsmodels
+prophet
+base64
+plotly
