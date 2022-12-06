@@ -3,6 +3,6 @@ Pillow
 pandas
 lxml
 statsmodels
-prophet
+Prophet
 base64
 plotly
